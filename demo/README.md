@@ -8,7 +8,9 @@
 配置完成这3个路径之后，直接在root下运行 flutter doctor，如果你看到flutter已经在对编译器和安卓设备进行检测的时候，说明已经初始化完成
 了flutter整个环境。
 
-## Getting Started
+## 项目搭建
+
+flutter create appName 将会创建一个flutterApp demo，直接运行flutter run 便会对这个demo进行。
 
 This project is a starting point for a Flutter application.
 
